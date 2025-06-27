@@ -92,6 +92,7 @@ button {
     justify-content: space-around;
     margin: 100px 400px;
     padding: 18px;
+    border-radius: 4px;
 }
 
 .call-to-action h3 {
