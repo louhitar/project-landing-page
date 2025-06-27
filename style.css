@@ -82,6 +82,10 @@ ul {
     margin-bottom: 8px;
 }
 
+.quote {
+    background-color: #e5e7eb;
+}
+
 #hero-subtext {
     font-size: 18px;
     color: #e5e7eb;
@@ -92,4 +96,20 @@ ul {
     color: #f9faf8;
     font-weight: 900;
     margin-bottom: 0;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+    padding: 100px 300px 0px 300px;
+    margin: 0;
+}
+
+#quote-credit {
+    padding: 0px 300px 100px 300px;
+    text-align: right;
+    margin: 0;
 }
