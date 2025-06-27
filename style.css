@@ -113,6 +113,15 @@ button {
     border: 2px solid #e5e7eb;
 }
 
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 18px;
+}
+
 #hero-subtext {
     font-size: 18px;
     color: #e5e7eb;
